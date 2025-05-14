@@ -1,0 +1,6 @@
+# Ignore Chrome profile directory
+chrome_profile/
+env/
+__pycache__/
+# Ignore environment files
+.env

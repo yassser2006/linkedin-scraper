@@ -1,0 +1,12 @@
+# Email Configuration
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password
+
+# LinkedIn Scraping Configuration
+SCRAPE_URL=https://www.linkedin.com/search/results/content/?keywords=data%20scientist%20AND%20UAE&origin=GLOBAL_SEARCH_HEADER&sortBy=%22date_posted%22
+RECIPIENT_EMAIL=recipient@example.com
+
+# Note: For Gmail, you need to:
+# 1. Enable 2-factor authentication
+# 2. Generate an App Password
+# 3. Use the App Password as EMAIL_PASSWORD
